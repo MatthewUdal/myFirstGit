@@ -22,8 +22,5 @@ Week|Lecture + Workshop Content| Assessment and Other Important Activities
 9|Week 9 - MongoDB via NodeJS and Angular|Quiz2 (during lecture time);  assessed lab
 10|Week 10 - Unit and Integration Testing|Assessed lab
 11|Week 11 - End-to-End Testing|Unassessed lab, completing Assignment Phase 2
-<<<<<<< HEAD
 12|Week 12 - Assignment Phase 2 Demonstration|Marking assignment phase 2
-=======
-12|Week 12 - Assignment Phase 2 Demonstration|Marking assignment phase 2
->>>>>>> 29821a75248fee07f37623cf6bbd5d72df262219
+
